@@ -1,6 +1,5 @@
 #!/bin/bash
 mkdir ABDULlah2
-cd ABDULlah
+cd ABDULlah2
 touch EASE
 mv EASE RIGHT
-mv RIGHT my_file
