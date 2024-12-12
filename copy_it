@@ -1,0 +1,3 @@
+#!/bin/bash
+cp empty_stuff test_dir
+

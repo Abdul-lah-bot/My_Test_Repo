@@ -1,0 +1,26 @@
+#!/bin/bash
+ls -- List directory contents
+pwd -- Print working directory
+cd -- Change directory
+mkdir -- Create a new directory
+rm -- Remove files or directories
+cp -- Copy files or directories
+mv -- Move or rename files
+touch -- Create an empty file
+cat -- Concatenate and display file
+nano -- Text editor for editing files
+vim -- Text editor fir editing files
+rmdir -- Remove empty directory
+find --  Search for files in a directory
+top -- Show system processes
+df -- Display disk space usage
+du -- Display directory space usage
+free -- Show memory usage
+ps -- Report process status
+git init -- Initialize a Git repository
+git add -- Add files to staging area
+git commit -- Commit changes
+git push -- Push to remote repository
+git pull -- Pull from remote repository
+chmod --  Change file permissions
+chown -- Change file owner and group
