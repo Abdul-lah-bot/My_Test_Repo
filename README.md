@@ -1,1 +1,3 @@
-My first README file on repository
+# Learning Linux Basic
+
+My Basic Command in Linux
